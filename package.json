@@ -16,5 +16,8 @@
     "@astrojs/rss": "^4.0.18",
     "astro": "^6.3.7",
     "preact": "^10.29.2"
+  },
+  "devDependencies": {
+    "@astrojs/compiler-rs": "^0.1.6"
   }
 }
